@@ -1,1 +1,1 @@
-# quiz-frontend
+# quiz-app
